@@ -13,7 +13,14 @@ and run the produced jar:
 java -jar target/terrain-generator-1.0.jar
 ``
 
+Features
+========
+* Multiple generation methods
+* Click-and-drag to move around
+* Scroll to zoom
+
 Screenshot
 ==========
 
-![Screenshot](https://cloud.githubusercontent.com/assets/539150/4318598/d624a150-3f20-11e4-8ebb-eb5714d87e2e.png)
+![Screenshot1](https://cloud.githubusercontent.com/assets/539150/4352247/0df803e4-4221-11e4-9c07-0fc3a17aa999.png)
+![Screenshot2](https://cloud.githubusercontent.com/assets/539150/4352259/369558b0-4221-11e4-97bb-eae70d873900.png)
